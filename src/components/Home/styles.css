@@ -2,18 +2,21 @@
     padding-top: 100px;
     height: calc(100vh - 254px);
     background: #FFF;
+    display: flex;
+    flex-direction: column;
 }
   
 .home-container h1 {
     margin: 0;
 }
-  
+
 .home-content {
     display: flex;
     justify-content: center;
+    align-items: center;
     background: #FFF;
 }
-  
+
 .home-title {
     font-weight: bold;
     font-size: 53px;
@@ -46,7 +49,7 @@
     font-size: 22px;
     color: #FFF;
 }
-  
+
 .home-button:hover {
     background-color: #008DFA;
     transform: scale(1.01);
@@ -57,4 +60,3 @@
     height: 444px !important;
 }
   
-

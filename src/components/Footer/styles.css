@@ -1,19 +1,27 @@
 .main-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding-top: 15px;
     padding-bottom: 15px;
-    background-color: var(--dark-color);
+    background:#FFF;
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
     text-align: center;
-    color: #FFF;
-  }
+    color: #000;
+}
+
+.main-footer p{
+  font-size: 18px;
+  font-weight: bold;
+}
   
-  .footer-icons {
-    margin-top: 10px;
-    display: flex;
-    justify-content: center;
-  }
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  margin-left: 5px;
+}
   
   .footer-icons > * {
     margin-right: 5px;

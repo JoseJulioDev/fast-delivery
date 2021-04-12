@@ -17,7 +17,7 @@ function Home() {
                             Escolha o seu pedido e em poucos minutos <br/> 
                             levaremos a você.
                         </h3>
-                        <a href="" className="home-button">
+                        <a href="/" className="home-button">
                             FAZER PEDIDO
                         </a>
                     </div>
@@ -25,6 +25,7 @@ function Home() {
                         <MainImg />
                     </div>
                 </div>
+                <Footer />
             </div>
         </>
     );
