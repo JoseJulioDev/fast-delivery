@@ -10,4 +10,5 @@ fast-delery tem como objetivo ser uma aplicação de delivery usando react.js
 <img src="/src/images/print.PNG" alt="Print" />
 
 
+
 <img src="/src/images/print2.PNG" alt="Print" />
