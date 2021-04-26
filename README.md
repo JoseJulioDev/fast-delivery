@@ -1,9 +1,9 @@
 # fast-delivery
 
-fast-delery aims to be a delivery application using react.js
+fast-delery aims to be a delivery application using knowledge about react.js
  * react-router-dom.
 
-fast-delery tem como objetivo ser uma aplicação de delivery usando react.js
+fast-delery tem como objetivo ser uma aplicação de delivery usando os conhecimentos sobre react.js
  * react-router-dom.
 
 
